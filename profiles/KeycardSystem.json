@@ -1,0 +1,23 @@
+{
+    "ServerUsingCustomMapping": 0,
+    "ServerAutomaticRelock": 0,
+    "AutomaticRelockTime": 30,
+    "debug_build": 0,
+    "admin_log": 0,
+    "KeyCard_Locations": [
+        {
+            "x": 3686.741455078125,
+            "y": 5986.13330078125,
+            "z": 403.88037109375,
+            "Location_Name": "Green Mountain",
+            "door_index": 1,
+            "BuildingClassName": "Land_Mil_Barracks5",
+            "keycard_class_name": "keycard_access",
+            "single_use": 1,
+            "light_height": 1.0,
+            "use_light": 1,
+            "alarm_sound": "Alarm_Military",
+            "use_alarm": 0
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "M_STATIC_MARKER_ARRAY": [
+        {
+            "M_MARKER_NAME": "TZone",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\iconCar_ca.paa",
+            "M_COLOR": [
+                204.0,
+                0.0,
+                102.0
+            ],
+            "M_POSITION": [
+                6007.11,
+                0.0,
+                4989.48
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "Viceville",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\pictureParachute_ca.paa",
+            "M_COLOR": [
+                119.0,
+                170.0,
+                228.0
+            ],
+            "M_POSITION": [
+                2219,
+                0.0,
+                14084
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        }			
+    ],
+    "m_CanUse3DMarkers": 1,
+    "m_OwnPositionMarkerDisabled": 0,
+    "m_ForceMapItemOnly": 0
+}

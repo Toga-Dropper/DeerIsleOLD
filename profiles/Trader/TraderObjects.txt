@@ -1,0 +1,97 @@
+// ------------------------------------------------------ Trader Markers -------------------------------------------------------
+
+// MainTrader:
+
+<TraderMarker> 			0
+<TraderMarkerPosition>	6029.44, 13.3389, 4965.08
+<TraderMarkerSafezone>	75
+
+<TraderMarker> 			1
+<TraderMarkerPosition>	6027.53, 14.0655, 5003.99
+<TraderMarkerSafezone>	25
+
+<TraderMarker> 			2
+<TraderMarkerPosition>	6019.97, 14.0655, 4995.17
+<TraderMarkerSafezone>	25
+
+<TraderMarker> 			3
+<TraderMarkerPosition>	6015.71, 14.0655, 5005.83
+<TraderMarkerSafezone>	25
+
+//VehicleTrader
+<TraderMarker> 			4
+<TraderMarkerPosition>	5970.84, 13.8233, 4985.11
+<TraderMarkerSafezone>	25
+<VehicleSpawn>			5987.64, 14.2918, 4983.43
+<VehicleSpawnOri>		-108,		0,			0
+
+//Casino
+<TraderMarker> 			5
+<TraderMarkerPosition>	6059.74, 45.6201, 4988.07
+<TraderMarkerSafezone>	100
+
+//Weed
+<TraderMarker> 			6
+<TraderMarkerPosition>	2205.7, 5.48081, 14092.1
+<TraderMarkerSafezone>	50
+
+//Heli
+<TraderMarker> 			7
+<TraderMarkerPosition>	2207.57, 6.44076, 14073.1
+<TraderMarkerSafezone>	50
+<VehicleSpawn>			2217.45, 11.2634, 14052.2
+<VehicleSpawnOri>		0,		0,			0
+
+// ------------------------------------------------------ Objects to Spawn ------------------------------------------------------
+//Main Trader Starting ID=0
+
+<Object> 			FS_Forester_Surv
+<ObjectPosition>	6029.44, 13.3389, 4965.08
+<ObjectOrientation>	13.6147, 0,			0
+<ObjectAttachment>	NPC_DUMMY
+
+<Object> 			FS_SidorCap_Char
+<ObjectPosition>	6027.53, 14.0655, 5003.99
+<ObjectOrientation>	-110.99,			0,			0
+<ObjectAttachment>	NPC_DUMMY
+
+<Object> 			FS_ClearNeboType2_Char
+<ObjectPosition>	6019.97, 14.0655, 4995.17
+<ObjectOrientation>	73.8232,			0,			0	
+<ObjectAttachment>	NPC_DUMMY
+
+<Object> 			FS_ShramVSS_Char
+<ObjectPosition>	6015.71, 14.0655, 5005.83
+<ObjectOrientation>	74.8366,			0,			0
+<ObjectAttachment>	NPC_DUMMY
+
+<Object> 			FS_Barmen_Char
+<ObjectPosition>	5970.84, 13.8233, 4985.11
+<ObjectOrientation>	166.883,			0,			0
+<ObjectAttachment>	NPC_DUMMY
+
+<Object> 			FS_Barmen_Char
+<ObjectPosition>	6059.74, 45.6201, 4988.07
+<ObjectOrientation>	28.8724, 0,			0
+<ObjectAttachment>	NPC_DUMMY
+
+<Object> 			FS_Barmen_Char
+<ObjectPosition>	2205.7, 5.48081, 14092.1
+<ObjectOrientation>	131.569,			0,			0
+<ObjectAttachment>	NPC_DUMMY
+
+<Object> 			FS_Barmen_Char
+<ObjectPosition>	2207.57, 6.44076, 14073.1
+<ObjectOrientation>	39.5344,			0,			0
+<ObjectAttachment>	NPC_DUMMY
+
+<Object>			Land_Misc_Well_Pump_Blue
+<ObjectPosition>	6047.48, 12.9169, 4961.3
+<ObjectOrientation>	0,			0,			0
+
+<Object>			BarrelHoles_Red
+<ObjectPosition>	6068.99, 12.5601, 4964.66
+<ObjectOrientation>	0,			0,			0
+		
+//<OpenFile> FileName.txt								// Links to another File; Must be right above <FileEnd>!
+<FileEnd>												// This has to be on the End of this File and is very importand!

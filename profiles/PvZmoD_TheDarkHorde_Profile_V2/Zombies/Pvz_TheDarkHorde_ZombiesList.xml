@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- ================== YOU CAN FIND A LOT MORE INFORMATIONS IN HELP.TXT FILES ================== -->
+<types>	
+	<!-- ======================== NIGHT TIME ============================== -->
+	
+	<type NightTime_Master = "ZmbM_DH_Master_Night">	
+	
+        <NightTime_Zombie	Name="FS_Izlome"/>
+        <NightTime_Zombie	Name="FS_Snork"/>
+        <NightTime_Zombie	Name="FS_KrovososType2_Albinos"/>
+        <NightTime_Zombie	Name="FS_Mertvak"/>	 
+        <NightTime_Zombie	Name="FS_Plash_Zombie"/>
+        <NightTime_Zombie	Name="FS_EXO_ZMB_pristine_bandit"/>
+	</type>  
+	
+	<!-- ======================== DAY TIME ============================== -->	
+	
+	<type DayTime_Master = "ZmbM_DH_Master_Day">		
+		
+        <DayTime_Zombie		Name="FS_Izlome"/>
+        <DayTime_Zombie		Name="FS_Snork"/>
+        <DayTime_Zombie		Name="FS_KrovososType2_Albinos"/>
+        <DayTime_Zombie		Name="FS_Mertvak"/>
+        <DayTime_Zombie		Name="FS_Plash_Zombie"/>	
+        <DayTime_Zombie		Name="FS_EXO_ZMB_pristine_bandit"/>			
+	</type>     
+</types>
