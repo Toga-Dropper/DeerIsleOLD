@@ -1,0 +1,42 @@
+{
+    "ConfigVersion": "2",
+    "WhiteList": [
+        "Trap",
+        "Paper",
+        "Fireplace",
+        "LandmineTrap"
+    ],
+    "ServerAdmins": [
+        "GUID"
+    ],
+    "TentRadius": 6.0,
+    "TentCESpawnLifeTime": 5600.0,
+    "BuildBonusSledgeDamage": 150.0,
+    "RequireTerritory": 0,
+    "PublicPermissions": 20,
+    "MemberPermissions": 30,
+    "Notifications": 0,
+    "NoBuildZones": [
+        {
+            "Name": "",
+            "X": 10127.7998046875,
+            "Z": 5197.77978515625,
+            "R": 200.0,
+            "DrawOnMap": 1
+        }
+    ],
+    "NoBuildZoneMessage": "You can't build here, are trying to build in a designated no build zones",
+    "TerritoryConflictMessage": "Sorry you can't build a territory this close to another territory",
+    "WithinTerritoryWarning": "Sorry you can't build this close to an enemy territory",
+    "DeSpawnWarningMessage": "You are building outside a territory, $ITEMNAME$ will despawn in $LIFETIME$ without a Territory\n\nLearn how to craft and build a territory, please check out our guide on discord - discord.gg/N8BkZH2qMz",
+    "BuildPartWarningMessage": "Sorry, you don't have permissions to build in this area.",
+    "DismantleWarningMessage": "Sorry, you can't dismantle anything this close to a raised flag",
+    "LowerFlagWarningMessage": "Sorry, you do not have permissions to lower the flag in this territory",
+    "TerritoryRequiredWarningMessage": "Sorry, you are required to build a territory to be able to build",
+    "FlagRefreshFrequency": 432000,
+    "KitLifeTimes": {
+        "watchtowerkit": 1814400,
+        "fencekit": 1814400,
+        "msp_": 1814400
+    }
+}

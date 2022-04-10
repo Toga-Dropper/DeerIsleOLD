@@ -1,0 +1,10 @@
+KR_ATM
+KR_ATMRusty
+KR_ATMRed
+KR_ATMGreen
+KR_ATMBlue
+KR_ATMYellow
+KR_ATMOrange
+KR_ATMBlackWhite
+KR_ATMBlack
+KR_BankingCard

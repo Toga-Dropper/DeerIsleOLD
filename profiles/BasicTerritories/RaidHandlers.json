@@ -1,0 +1,205 @@
+[
+    {
+        "TypeName": "fence",
+        "FireArms": 4.0,
+        "Melee": 0.1,
+        "Explosive": 0.6,
+        "Other": 0.0,
+        "ToolsFirst": 1,
+        "PartModifier": [
+            {
+                "Part": "wall_wood",
+                "Modifier": 1.65,
+                "WhiteList": [
+					"m67Grenade",
+					"rgd5grenade",
+					"landminetrap",
+					"bb_pipebomb",
+					"firefighteraxe"
+				],
+                "RequiredDestroyed": []
+            },
+            {
+                "Part": "wall_metal",
+                "Modifier": 0.75,
+                "WhiteList": [
+                    "bb_pipebomb"
+                ],
+                "RequiredDestroyed": [
+				]
+            },
+            {
+                "Part": "wall_base_down",
+                "Modifier": 45.0,
+                "WhiteList": [
+				],
+                "RequiredDestroyed": [
+					"wall_metal_down",
+					"wall_wood_down"
+				]
+            },
+            {
+                "Part": "wall_base_up",
+                "Modifier": 45.0,
+                "WhiteList": [
+				],
+                "RequiredDestroyed": [
+					"wall_metal_up",
+					"wall_wood_up"
+				]
+            },
+            {
+                "Part": "*",
+                "Modifier": 1.0,
+                "WhiteList": [
+					"m67Grenade",
+					"rgd5grenade",
+					"landminetrap",
+					"bb_pipebomb",
+					"firefighteraxe"
+				],
+                "RequiredDestroyed": []
+            }
+        ],
+        "ToolModifiers": [
+            {
+                "Tool": "firefighteraxe",
+                "Modifier": 10.0,
+                "MinDmg": 20.0,
+                "MaxDmg": 35.0,
+                "MaxDistance": 4
+            },
+            {
+                "Tool": "pipebomb_ammolow",
+                "Modifier": 8.0,
+                "MinDmg": 10000.0,
+                "MaxDmg": 12500.0,
+                "MaxDistance": 4
+            },
+            {
+                "Tool": "pipebomb_ammohigh",
+                "Modifier": 8.0,
+                "MinDmg": 11000.0,
+                "MaxDmg": 13000.0,
+                "MaxDistance": 4
+            },
+            {
+                "Tool": "pipebomb_ammo",
+                "Modifier": 8.0,
+                "MinDmg": 11000.0,
+                "MaxDmg": 13000.0,
+                "MaxDistance": 4
+            }
+        ]
+    },
+    {
+        "TypeName": "watchtower",
+        "FireArms": 0.3,
+        "Melee": 0.1,
+        "Explosive": 0.6,
+        "Other": 0.0,
+        "ToolsFirst": 1,
+        "PartModifier": [
+            {
+                "Part": "wall_wood",
+                "Modifier": 1.70,
+                "WhiteList": [
+					"m67Grenade",
+					"rgd5grenade",
+					"landminetrap",
+					"bb_pipebomb",
+					"firefighteraxe"
+				],
+                "RequiredDestroyed": []
+            },
+            {
+                "Part": "wall_metal",
+                "Modifier": 0.80,
+                "WhiteList": [
+                    "bb_pipebomb"
+                ],
+                "RequiredDestroyed": [
+				]
+            },
+            {
+                "Part": "wall_base_down",
+                "Modifier": 55.0,
+                "WhiteList": [
+				],
+                "RequiredDestroyed": [
+					"wall_metal_down",
+					"wall_wood_down"
+				]
+            },
+            {
+                "Part": "wall_base_up",
+                "Modifier": 55.0,
+                "WhiteList": [
+				],
+                "RequiredDestroyed": [
+					"wall_metal_up",
+					"wall_wood_up"
+				]
+            },
+            {
+                "Part": "*",
+                "Modifier": 1.0,
+                "WhiteList": [
+					"m67Grenade",
+					"rgd5grenade",
+					"landminetrap",
+					"bb_pipebomb",
+					"firefighteraxe"
+				],
+                "RequiredDestroyed": []
+            }
+        ],
+        "ToolModifiers": [
+            {
+                "Tool": "firefighteraxe",
+                "Modifier": 11.0,
+                "MinDmg": 22.0,
+                "MaxDmg": 36.0,
+                "MaxDistance": 4
+            },
+            {
+                "Tool": "pipebomb_ammolow",
+                "Modifier": 8.0,
+                "MinDmg": 10000.0,
+                "MaxDmg": 12500.0,
+                "MaxDistance": 4
+            },
+            {
+                "Tool": "pipebomb_ammohigh",
+                "Modifier": 8.0,
+                "MinDmg": 11000.0,
+                "MaxDmg": 13000.0,
+                "MaxDistance": 4
+            },
+            {
+                "Tool": "pipebomb_ammo",
+                "Modifier": 8.0,
+                "MinDmg": 11000.0,
+                "MaxDmg": 13000.0,
+                "MaxDistance": 4
+            }
+        ]
+    },
+    {
+        "TypeName": "*",
+        "FireArms": 0.3,
+        "Melee": 0.1,
+        "Explosive": 1.0,
+        "Other": 0.0,
+        "ToolsFirst": 1,
+        "PartModifier": [
+            {
+                "Part": "*",
+                "Modifier": 1.0,
+                "WhiteList": [],
+                "RequiredDestroyed": []
+            }
+        ],
+        "ToolModifiers": []
+    }
+]

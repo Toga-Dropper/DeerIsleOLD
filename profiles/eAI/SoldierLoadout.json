@@ -1,0 +1,62 @@
+{
+    "Shirts": [
+        "M65Jacket_Black"
+    ],
+    "Pants": [
+        "CargoPants_Black"
+    ],
+    "Shoes": [
+        "CombatBoots_Black"
+    ],
+    "BackPacks": [
+		"AssaultBag_Black"
+    ],
+    "Vests": [
+		"HighCapacityVest_Black"
+    ],
+    "Headgear": [
+		"BallisticHelmet_Black"
+    ],
+    "Gloves": [
+        "OMNOGloves_Gray"
+    ],
+    "Misc": [
+        "MilitaryBelt"
+    ],
+    "ClothesHealth": [
+        100,
+        100
+    ],
+    "WeaponMelee": [],
+    "WeaponRifle": [
+		"ASVAL",
+		"VSS"		
+    ],
+    "WeaponRifleMagCount": [
+        1,
+		2
+    ],
+    "WeaponHandgun": [
+        "MakarovIJ70"
+    ],
+    "WeaponHandgunMagCount": [
+        1,
+        3
+    ],
+    "WeaponHealth": [
+        100,
+		100
+    ],
+    "Loot": [
+        "NailBox"
+	],
+    "LootRandom": [
+		"Bear_Pink"
+    ],
+    "LootHealth": [
+        100,
+        100
+    ]
+}
+
+

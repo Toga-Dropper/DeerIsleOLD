@@ -1,0 +1,62 @@
+{
+    "Shirts": [
+        "M65Jacket_Khaki"
+    ],
+    "Pants": [
+        "CargoPants_Beige"
+    ],
+    "Shoes": [
+        "JungleBoots_Beige"
+    ],
+    "BackPacks": [
+		"GhillieSuit_Tan"
+    ],
+    "Vests": [
+		"UKAssVest_Khaki"
+    ],
+    "Headgear": [
+		"GhillieHood_Tan"
+    ],
+    "Gloves": [
+        "TacticalGloves_Beige"
+    ],
+    "Misc": [
+        "MilitaryBelt"
+    ],
+    "ClothesHealth": [
+        100,
+        100
+    ],
+    "WeaponMelee": [
+        "MeleeBat"
+    ],
+    "WeaponRifle": [
+		"SVD",
+		"VSS"
+    ],
+    "WeaponRifleMagCount": [
+        5,
+        10
+    ],
+    "WeaponHandgun": [
+        "MakarovIJ70"
+    ],
+    "WeaponHandgunMagCount": [
+        1,
+        3
+    ],
+    "WeaponHealth": [
+        100,
+        100
+    ],
+    "Loot": [
+        "SodaCan_Cola"
+    ],
+    "LootRandom": [
+        "Screwdriver"
+    ],
+    "LootHealth": [
+        75,
+        100
+    ]
+}

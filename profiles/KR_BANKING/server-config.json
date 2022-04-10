@@ -1,0 +1,170 @@
+{
+    "ModVersion": "2.11",
+    "MenuDelay": 1.0,
+    "startCurrency": 50000,
+    "maxCurrency": 10000000,
+    "IsClanAccountActive": 1,
+    "CostsToCreateClan": 10000,
+    "CostsToInviteAnPlayer": 10000,
+    "MaxClanAccountLimit": 30000000,
+    "MaxPlayersInClan": -1,
+    "MinAmountToTransfer": 10000,
+    "TransferfeesInProcent": 5,
+    "IsRobEventActive": 1,
+    "MinPlayersForRob": 2,
+    "MinMoneyForRob": 10000,
+    "MaxMoneyForRob": 100000,
+    "TimeInSecToRobATM": 300,
+    "RobMessagesActive": 1,
+    "PayCheckValue": 2500,
+    "PayCheckTickTime": 30,
+    "IsPayCheckMessageActive": 1,
+    "CanAddPayCheckInSafezone": 1,
+    "PayCheckMessage": "%Amount% added to your bank account!  CDZ Stimulus cash.",
+    "MinPlayersForPayCheck": 1,
+    "CanAddToFullAcc": 1,
+    "NeedsBankCardToOpenMenu": 0,
+    "m_LoggingSettings": {
+        "m_LogMode": 1,
+        "m_LogDepositOwnBank": 1,
+        "m_LogWithdraw": 1,
+        "m_LogClanDeposit": 1,
+        "m_LogClanWithdraw": 1,
+        "m_LogCreateClanAccount": 1,
+        "m_LogDeleteClanAccount": 1,
+        "m_LogInviteMember": 1,
+        "m_LogUpdatePermission": 1
+    },
+    "m_DiscordWebhook": {
+        "m_UseWebhook": 0,
+        "m_WebhookURL": "",
+        "m_LogDepositToDiscord": 1,
+        "m_LogWithdrawToDiscord": 1,
+        "m_LogClanDepositToDiscord": 0,
+        "m_LogClanWithdrawToDiscord": 0,
+        "m_LogClanCreateToDiscord": 0,
+        "m_LogClanInviteMemberToDiscord": 0,
+        "m_LogClanRemoveMemberToDiscord": 0,
+        "m_LogClanUpdatePermissionToDiscord": 0,
+        "m_LogClanKickMemberToDiscord": 0,
+        "m_AdminLogUpdateServerConfig": 1,
+        "m_AdminLogUpdatePlayerData": 1,
+        "m_AdminLogUpdateClanData": 0,
+        "m_AdminLogUseMisc": 1
+    },
+    "ATM": [
+        {
+            "ATMSName": "KR_ATMGreen",
+            "Position": [
+                5996.60009765625,
+                13.026700019836426,
+                5000.27978515625
+            ],
+            "Direction": [
+                -106.49500274658203,
+                0.0,
+                0.0
+            ],
+            "CanBeRobbed": 0,
+            "RobMessage": ""
+        },
+        {
+            "ATMSName": "KR_ATMBlack",
+            "Position": [
+                2231.95263671875,
+                5.97368860244751,
+                14076.7412109375
+            ],
+            "Direction": [
+                144.88026428222657,
+                0.0,
+                -0.0
+            ],
+            "CanBeRobbed": 0,
+            "RobMessage": ""
+        },
+        {
+            "ATMSName": "KR_ATMRed",
+            "Position": [
+                6092.65185546875,
+                9.332703590393067,
+                14650.5322265625
+            ],
+            "Direction": [
+                179.5692901611328,
+                -0.0,
+                -0.0
+            ],
+            "CanBeRobbed": 1,
+            "RobMessage": "The ATM at the Portland Hotel is getting robbed by Player: %PlayerName%"
+        },
+        {
+            "ATMSName": "KR_ATMBlackWhite",
+            "Position": [
+                9079.041015625,
+                16.407596588134767,
+                9650.568359375
+            ],
+            "Direction": [
+                -22.54090690612793,
+                0.0,
+                0.0
+            ],
+            "CanBeRobbed": 1,
+            "RobMessage": "The ATM at the Waldoboro Hotel is getting robbed by Player: %PlayerName%"
+        },
+        {
+            "ATMSName": "KR_ATMOrange",
+            "Position": [
+                6775.732421875,
+                3.4748024940490724,
+                1453.1268310546876
+            ],
+            "Direction": [
+                -73.73066711425781,
+                0.0,
+                0.0
+            ],
+            "CanBeRobbed": 1,
+            "RobMessage": "The ATM at the Stonington Hotel is getting robbed by Player: %PlayerName%"
+        }
+    ],
+    "BankingCurrency": [
+        {
+            "CurrencyName": "AC_Money_Ruble_5000",
+            "CurrencyValue": 5000
+        },
+        {
+            "CurrencyName": "AC_Money_Ruble_1000",
+            "CurrencyValue": 1000
+        },
+        {
+            "CurrencyName": "AC_Money_Ruble_500",
+            "CurrencyValue": 500
+        },
+        {
+            "CurrencyName": "MoneyRuble100",
+            "CurrencyValue": 100
+        },
+        {
+            "CurrencyName": "MoneyRuble50",
+            "CurrencyValue": 50
+        },
+        {
+            "CurrencyName": "MoneyRuble25",
+            "CurrencyValue": 25
+        },
+        {
+            "CurrencyName": "MoneyRuble10",
+            "CurrencyValue": 10
+        },
+        {
+            "CurrencyName": "MoneyRuble5",
+            "CurrencyValue": 5
+        },
+        {
+            "CurrencyName": "MoneyRuble1",
+            "CurrencyValue": 1
+        }
+    ]
+}

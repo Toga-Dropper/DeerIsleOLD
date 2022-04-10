@@ -1,0 +1,73 @@
+{
+    "Shirts": [
+        "M65Jacket_Black"
+    ],
+    "Pants": [
+        "CargoPants_Black"
+    ],
+    "Shoes": [
+        "CombatBoots_Black"
+    ],
+    "BackPacks": [
+		"AssaultBag_Black"
+    ],
+    "Vests": [
+		"HighCapacityVest_Black"
+    ],
+    "Headgear": [
+		"BallisticHelmet_Black"
+    ],
+    "Gloves": [
+        "OMNOGloves_Gray"
+    ],
+    "Misc": [
+        "MilitaryBelt"
+    ],
+    "ClothesHealth": [
+        100,
+        100
+    ],
+    "WeaponMelee": [],
+    "WeaponRifle": [
+		"ASVAL",
+		"VSS",
+        "M4A1",
+        "SVD",
+        "AKM"		
+    ],
+    "WeaponRifleMagCount": [
+        2,
+        5
+    ],
+    "WeaponHandgun": [
+        "Deagle_Gold"
+    ],
+    "WeaponHandgunMagCount": [
+        1,
+        3
+    ],
+    "WeaponHealth": [
+        100,
+        100
+    ],
+    "Loot": [
+        "FS_ITEM_MRE",
+        "MoneyRuble100",
+		"MoneyRuble50",
+        "MoneyRuble25",	
+        "CJ_Keycard_Red"		
+    ],
+    "LootRandom": [
+        "MoneyRuble100",
+		"MoneyRuble50",
+        "MoneyRuble25",
+		"CJ_Keycard_White",	
+        "CJ_Keycard_Blue",
+		"CJ_Keycard_Yellow",
+		"CJ_Keycard_Violet"	
+    ],
+    "LootHealth": [
+        75,
+        100
+    ]
+}

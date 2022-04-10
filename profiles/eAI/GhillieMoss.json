@@ -1,0 +1,50 @@
+{
+    "Shirts": [
+        "M65Jacket_Olive"
+    ],
+    "Pants": [
+        "CargoPants_Green"
+    ],
+    "Shoes": [
+        "JungleBoots_Green"
+    ],
+    "BackPacks": [
+		"GhillieSuit_Mossy"
+    ],
+    "Vests": [
+		"UKAssVest_Camo"
+    ],
+    "Headgear": [
+		"GhillieHood_Mossy"
+    ],
+    "Gloves": [
+        "TacticalGloves_Black"
+    ],
+    "Misc": [
+        "MilitaryBelt"
+    ],
+    "ClothesHealth": [
+        100,
+        100
+    ],
+    "WeaponMelee": [],
+    "WeaponRifle": [
+		"FAL"
+    ],
+    "WeaponRifleMagCount": [
+        2,
+        5
+    ],
+    "WeaponHandgun": [],
+    "WeaponHandgunMagCount": [],
+    "WeaponHealth": [
+        75,
+        100
+    ],
+    "Loot": [],
+    "LootRandom": [],
+    "LootHealth": [
+        75,
+        100
+    ]
+}

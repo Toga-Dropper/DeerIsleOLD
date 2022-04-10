@@ -1,0 +1,18 @@
+[
+    {
+        "playerId": "",
+        "playerPerms": {
+            "CanOpenLocks": "false",
+            "CanChangePasscodes": "false",
+            "CanRemoveLocks": "false"
+        }
+    },
+    {
+        "playerId": "",
+        "playerPerms": {
+            "CanOpenLocks": "false",
+            "CanChangePasscodes": "false",
+            "CanRemoveLocks": "false"
+        }
+    }
+]
