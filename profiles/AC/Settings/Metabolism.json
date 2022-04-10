@@ -1,0 +1,51 @@
+{
+    "m_Enable": 0,
+    "m_Cargo": {
+        "m_Infinity": 0,
+        "m_WeightLimitThreshold": 0.0,
+        "m_KgToGrams": 0.0,
+        "m_KgToPercentPenalty": 0.0
+    },
+    "m_Gain": {
+        "m_Jog": 0,
+        "m_Walk": 0,
+        "m_Idle": 0,
+        "m_Swim": 0,
+        "m_Ladder": 0,
+        "m_Roll": 0
+    },
+    "m_Drain": {
+        "m_StandingSprint": 0,
+        "m_CrouchedSprint": 0,
+        "m_SwimFast": 0,
+        "m_LadderFast": 0
+    },
+    "m_Consumers": {
+        "m_HoldBreathThresholdActivate": 0.0,
+        "m_HoldBreathThresholdDrain": 0.0,
+        "m_JumpThreshold": 0.0,
+        "m_VaultThreshold": 0.0,
+        "m_ClimbThreshold": 0.0,
+        "m_MeleeHeavyThreshold": 0.0,
+        "m_MeleeEvadeThreshold": 0.0,
+        "m_RollThreshold": 0.0
+    },
+    "m_Modifiers": {
+        "m_DrainHoldBreathStart": 0.0,
+        "m_DrainHoldBreathExponent": 0.0,
+        "m_DrainHoldBreathDuration": 0.0,
+        "m_DrainJump": 0.0,
+        "m_DrainVault": 0.0,
+        "m_DrainClimb": 0.0,
+        "m_DrainMeleeLight": 0.0,
+        "m_DrainMeleeHeavy": 0.0,
+        "m_DrainMeleeEvade": 0.0,
+        "m_DrainRoll": 0.0
+    },
+    "m_Sway": {
+        "m_TimeIn": 0.0,
+        "m_TimeStable": 0.0,
+        "m_TimeExhausted": 0.0,
+        "m_TimeOut": 0.0
+    }
+}

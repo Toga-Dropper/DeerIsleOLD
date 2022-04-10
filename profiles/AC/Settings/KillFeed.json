@@ -1,0 +1,49 @@
+{
+    "m_Enable": 0,
+    "m_Log": 0,
+    "m_Historic": 0,
+    "m_Notification": 1,
+    "m_Timeout": 15,
+    "m_Color": {
+        "m_Default": {
+            "m_A": 255,
+            "m_R": 227,
+            "m_G": 227,
+            "m_B": 0
+        },
+        "m_Head": {
+            "m_A": 255,
+            "m_R": 0,
+            "m_G": 0,
+            "m_B": 255
+        },
+        "m_Killer": {
+            "m_A": 255,
+            "m_R": 255,
+            "m_G": 0,
+            "m_B": 0
+        },
+        "m_Victim": {
+            "m_A": 255,
+            "m_R": 0,
+            "m_G": 255,
+            "m_B": 0
+        }
+    },
+    "m_Message": {
+        "m_Animal": "Guess it is too late to run faster now Forest!",
+        "m_Bleeding": "They used to have bandaids, Kotex, etc for that.....",
+        "m_Custom": "EVEN GOD DOESNT KNOW WHY YOU DIED",
+        "m_Died": "His soul is useless to this world",
+        "m_Energy": "HE NEEDS MILK!!!!",
+        "m_Grenade": "decided to decorate the outside with his insides.",
+        "m_Melee": "beatch you aint no Tyson!",
+        "m_Player": "you should have known to watch for that character",
+        "m_Suicide": "is a completely pitiful individual, seize his soul",
+        "m_Trap": "",
+        "m_Water": "it is easier to breate air you know?",
+        "m_Weapon": "murdered by the weapon of choice",
+        "m_Zombie": "is solving Zombie world hunger!"
+    },
+    "m_Webhook": ""
+}

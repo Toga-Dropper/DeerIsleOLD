@@ -1,0 +1,14 @@
+{
+    "m_Admin": 0,
+    "m_Barrel": 0,
+    "m_BaseBuilding": 0,
+    "m_Connection": 0,
+    "m_Fence": 0,
+    "m_GardenPlot": 0,
+    "m_Player": 0,
+    "m_Position": 0,
+    "m_Restrain": 0,
+    "m_Suicide": 0,
+    "m_Tent": 0,
+    "m_Vehicle": 1
+}

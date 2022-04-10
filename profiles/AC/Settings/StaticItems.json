@@ -1,0 +1,25 @@
+{
+    "m_Enable": 0,
+    "m_Items": [
+        {
+            "m_Class": "SurvivorM_Elias",
+            "m_Attachments": [
+                "AC_TacticalGloves_Admin",
+                "AC_TacticalShirt_Admin",
+                "AC_CargoPants_Admin",
+                "AC_MilitaryBeret_Admin",
+                "AC_MilitaryBoots_Admin"
+            ],
+            "m_Position": {
+                "m_X": 4745.8251953125,
+                "m_Y": 339.0023498535156,
+                "m_Z": 10369.158203125
+            },
+            "m_Orientation": {
+                "m_Yaw": 60.0,
+                "m_Pitch": 0.0,
+                "m_Roll": 0.0
+            }
+        }
+    ]
+}

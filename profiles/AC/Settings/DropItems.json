@@ -1,0 +1,12 @@
+{
+    "m_Enable": 1,
+    "m_PlayerDelete": 3600.0,
+    "m_DeleteItems": [
+        "AC_TacticalGloves_Admin",
+        "AC_TacticalShirt_Admin",
+        "AC_CargoPants_Admin",
+        "AC_MilitaryBeret_Admin",
+        "AC_MilitaryBoots_Admin",
+        "AC_Hatchet_Admin"
+    ]
+}

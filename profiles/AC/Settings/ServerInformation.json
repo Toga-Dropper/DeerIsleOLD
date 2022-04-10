@@ -1,0 +1,52 @@
+{
+    "m_Enable": 1,
+    "m_Description": "CDZ= CrayZ DayZ",
+    "m_Tabs": [
+        {
+            "m_TabLabel": "Information",
+            "m_TabLines": [
+                "Discord, where every recipe, rule, changelogs, feeback, ticket system are, get it, got it, GOOD!",
+                "This is not just another Deerisle washout version.  This is a challenge mortal.",
+                "Vanilla, SimpleBase, BBP and Medieval Cabins are available to build.",
+                "Zombies hit harder at night, Police, Military are especially hard to fight and kill.",
+                "There are built and naked islands in the ocean for you to explore and build on.  Only reason we have a map still here at CDZ.",
+                "Codelocks will need to be hacked via a tablet and use of batteries.",
+                "ALL methods of transport on CDZ are at own risk, no admin is responsible for your mistakes, latency or act of Dayz God issues.  Dayz is not known for its vehicle mechanics.",
+                "This server is a dedicated server, running an i7 and 32gb of ram with only one instance, any lag is not on us.",
+                "If you dont like a ton of pain, stay on coast where animal territories have not been overrun.  Go inland, it will get hard.d",
+                "Please refrain from DM'ing an admin unless an emergency.  Place a ticket in discord!!!!!",
+                "Bridges, we fixed them and added them in a tasteful way.  Now see DeerIsle as it was meant to be.",
+                "PVPVE means you play whichever way you want, you may PvP BUT until server is med/high pop then that wont be much fun. You can KO, you can make peace, up to you!!!!!!!!!!",
+                "Every zed on this server has been individually configured.",
+                "You will get cut if you punch zeds in face without gloves",
+                "IMPORTANT  YOU CAN TAKE DAMAGE INSIDE VEHICLE, NEXT TO A HOUSE WINDOW OR ON TOP OF LOWER ITEMS YOU STAND ON FROM ZOMBIES.  If you want to zombie farm, climb higher mofo.",
+                "Yes, nails, tools, wire and hinges are purposefully hard to find."
+            ]
+        },
+        {
+            "m_TabLabel": "Rules",
+            "m_TabLines": [
+                "1. Everybody, religion, culture, character will be respected unless deemed toxic.",
+                "2. Voices, feedback, debate and diaglogue are valuable tools for humanity, whining is not and this world,life and server are not perfect.",
+                "Dont whine, but provide feeback with specific information.",
+                "3. Rage quit in discord, or in game, your ass is gone. We dont have time for restraining orders.",
+                "4. Dont be a douche, a dickhead, or a troll for purpose of just said being, zero tolerance for bullies or asshats.",
+                "5. No advertising other servers here, no DM'ing or spamming chat with anything not CDZ/Dayz or approved by admin.",
+                "6. ALL bases must have at least (1) raidable gate, no exceptions.",
+                "7. Purposefully circumventing game mechanics, events, or exploits giving you advantage on server without report: such as wall glitching, popcorning, duping,",
+                "raiding just to grief, taking helis without keycard, etc...",
+                "8. Have FUN and remember its a game."
+            ]
+        }
+    ],
+    "m_Buttons": [
+        {
+            "m_ButtonText": "DISCORD",
+            "m_ButtonLink": "https://discord.gg/7dFzpPZk7P"
+        },
+        {
+            "m_ButtonText": "BB+",
+            "m_ButtonLink": "https://github.com/FelixForesight2020/BaseBuildingPlus/wiki"
+        }
+    ]
+}

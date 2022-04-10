@@ -1,0 +1,450 @@
+{
+    "Controls": {
+        "Version": "1.21.07.20",
+        "Interval": 180,
+        "Mode": 1,
+        "AD_LogManager": 1,
+        "AD_LogAircraft": 1,
+        "AD_LogContainer": 1,
+        "MinimumPlayers": 1,
+        "MaxBackupDays": 5,
+        "MaxLogDays": 2,
+        "SmokeTrails": 3
+    },
+    "Map": {
+        "Width": 15360.0,
+        "Height": 15360.0,
+        "Offset": 1000.0
+    },
+    "Aircraft": {
+        "AirSpeedKIAS": 100,
+        "StartAltMSL": 2438,
+        "DropAGL": 152,
+        "DropOffset": -10,
+        "DropAccuracy": 152,
+        "TerrainFollowing": 0.5
+    },
+    "Messages": {
+        "Mode": 3,
+        "Duration": 15,
+        "Proximity": 1500,
+        "ImperialUnits": 0,
+        "NotificationARGB": [
+            255,
+            0,
+            100,
+            200
+        ]
+    },
+    "Container": {
+        "TriggerAGL": 3.0,
+        "FallRate": 4.0,
+        "StandUpTimer": 3.0,
+        "SpawnMin": 1.0,
+        "SpawnMax": 3.0,
+        "SpawnOffset": 0.05000000074505806,
+        "WindStrength": 0.10000000149011612,
+        "Lifespan": 60
+    },
+    "Locations": [
+        {
+            "Title": "City",
+            "Zombies": [
+                "Zombi_XZ_Novice1",
+                "Zombi_XZ_Novice2",
+                "Zombi_XZ_Novice3",
+                "Zombi_XZ_Novice4",
+                "Zombi_XZ_Novice5",
+                "Zombi_XZ_Novice6",
+                "Zombi_XZ_Novice7"
+            ]
+        },
+        {
+            "Title": "Country",
+            "Zombies": [
+                "Zombi_XZ_Novice1",
+                "Zombi_XZ_Novice2",
+                "Zombi_XZ_Novice3",
+                "Zombi_XZ_Novice4",
+                "Zombi_XZ_Novice5",
+                "Zombi_XZ_Novice6",
+                "Zombi_XZ_Novice7"
+            ]
+        },
+        {
+            "Title": "Industrial",
+            "Zombies": [
+                "Zombi_XZ_Novice1",
+                "Zombi_XZ_Novice2",
+                "Zombi_XZ_Novice3",
+                "Zombi_XZ_Novice4",
+                "Zombi_XZ_Novice5",
+                "Zombi_XZ_Novice6",
+                "Zombi_XZ_Novice7"
+            ]
+        },
+        {
+            "Title": "Military",
+            "Zombies": [
+                "Zombi_XZ_Novice1",
+                "Zombi_XZ_Novice2",
+                "Zombi_XZ_Novice3",
+                "Zombi_XZ_Novice4",
+                "Zombi_XZ_Novice5",
+                "Zombi_XZ_Novice6",
+                "Zombi_XZ_Novice7"
+            ]
+        },
+        {
+            "Title": "Wolfpack",
+            "Zombies": [
+                "Mutant_XZ_Himera1",
+                "Mutant_XZ_Himera2",
+                "Mutant_XZ_Himera3"
+            ]
+        }
+    ],
+    "DropZones": [
+        {
+            "Title": "Player Called",
+            "Location": "RANDOM",
+            "DropType": "RANDOM",
+            "X": 0.0,
+            "Z": 0.0,
+            "Zombies": 15,
+            "Radius": 50,
+            "DropAccuracy": 100
+        },
+        {
+            "Title": "PARIS ISLAND",
+            "Location": "Wolfpack",
+            "DropType": "RANDOM",
+            "X": 2558.0,
+            "Z": 4402.0,
+            "Zombies": 4,
+            "Radius": 50,
+            "DropAccuracy": 100
+        },
+        {
+            "Title": "PRISON",
+            "Location": "Military",
+            "DropType": "RANDOM",
+            "X": 5354.0,
+            "Z": 675.0,
+            "Zombies": 15,
+            "Radius": 50,
+            "DropAccuracy": 100
+        },
+        {
+            "Title": "OCEANVILLE",
+            "Location": "City",
+            "DropType": "RANDOM",
+            "X": 8838.0,
+            "Z": 45.0,
+            "Zombies": 15,
+            "Radius": 50,
+            "DropAccuracy": 100
+        },
+        {
+            "Title": "CAMP EAGLE",
+            "Location": "Military",
+            "DropType": "RANDOM",
+            "X": 8853.0,
+            "Z": 3654.0,
+            "Zombies": 15,
+            "Radius": 50,
+            "DropAccuracy": 50
+        },
+        {
+            "Title": "PORTLAND",
+            "Location": "City",
+            "DropType": "RANDOM",
+            "X": 5786.0,
+            "Z": 15362.0,
+            "Zombies": 15,
+            "Radius": 50,
+            "DropAccuracy": 100
+        },
+        {
+            "Title": "SCOUT'S CAMP BIG WEST",
+            "Location": "Military",
+            "DropType": "RANDOM",
+            "X": 4775.0,
+            "Z": 2155.0,
+            "Zombies": 15,
+            "Radius": 50,
+            "DropAccuracy": 100
+        },
+        {
+            "Title": "AIRFIELD",
+            "Location": "Wolfpack",
+            "DropType": "RANDOM",
+            "X": 5508.0,
+            "Z": 3465.0,
+            "Zombies": 4,
+            "Radius": 50,
+            "DropAccuracy": 100
+        },
+        {
+            "Title": "SANDYBAY",
+            "Location": "City",
+            "DropType": "RANDOM",
+            "X": 5038.0,
+            "Z": 7842.0,
+            "Zombies": 15,
+            "Radius": 50,
+            "DropAccuracy": 100
+        },
+        {
+            "Title": "OLDTOWN",
+            "Location": "Country",
+            "DropType": "RANDOM",
+            "X": 2029.0,
+            "Z": 9050.0,
+            "Zombies": 15,
+            "Radius": 50,
+            "DropAccuracy": 100
+        },
+        {
+            "Title": "STONINGTON",
+            "Location": "City",
+            "DropType": "RANDOM",
+            "X": 7466.0,
+            "Z": 2052.0,
+            "Zombies": 15,
+            "Radius": 50,
+            "DropAccuracy": 100
+        },
+        {
+            "Title": "KUSHVILLE",
+            "Location": "Country",
+            "DropType": "RANDOM",
+            "X": 7211.0,
+            "Z": 4013.0,
+            "Zombies": 15,
+            "Radius": 50,
+            "DropAccuracy": 100
+        },
+        {
+            "Title": "WESTBROOK",
+            "Location": "Country",
+            "DropType": "RANDOM",
+            "X": 3623.0,
+            "Z": 6404.0,
+            "Zombies": 15,
+            "Radius": 50,
+            "DropAccuracy": 100
+        },
+        {
+            "Title": "WALDOBORO",
+            "Location": "City",
+            "DropType": "RANDOM",
+            "X": 9203.0,
+            "Z": 9060.0,
+            "Zombies": 15,
+            "Radius": 50,
+            "DropAccuracy": 100
+        }
+    ],
+    "DropTypes": [
+        {
+            "Title": "Misc. Tools",
+            "Container": "RANDOM",
+            "Quantity": 20,
+            "AddFlare": 0.0,
+            "SpawnMin": 9.0,
+            "SpawnMax": 10.0,
+            "SpawnOffset": 0.0010000000474974514,
+            "Lifespan": 60,
+            "Items": [
+                "Battery9V",
+                "BatteryCharger",
+                "Binoculars",
+                "CableReel",
+                "CodeLock",
+                "NailBox",
+                "MetalWire",
+                "NailBox",
+                "NailBox",
+                "Crowbar",
+                "ElectronicRepairKit",
+                "FirefighterAxe",
+                "Flashlight",
+                "Hacksaw",
+                "Hammer",
+                "Hatchet",
+                "HuntingKnife",
+                "LeatherSewingKit",
+                "Lockpick",
+                "NailBox",
+                "Pickaxe",
+                "Pliers",
+                "PortableGasLamp",
+                "PortableGasStove",
+                "Rangefinder",
+                "HandSaw",
+                "Screwdriver",
+                "SewingKit",
+                "Shovel",
+                "SledgeHammer",
+                "Spotlight",
+                "HandSaw",
+                "WeaponCleaningKit",
+                "Chopper_Hinge",
+                "Chopper_Bracket",
+                "Whetstone",
+                "WoodAxe",
+                "Wrench"
+            ]
+        },
+        {
+            "Title": "Medical",
+            "Container": "RANDOM",
+            "Quantity": 10,
+            "AddFlare": 0.0,
+            "SpawnMin": 1.5,
+            "SpawnMax": 3.5,
+            "SpawnOffset": 0.0010000000474974514,
+            "Lifespan": 60,
+            "Items": [
+                "BandageDressing",
+                "BandageDressing",
+                "BloodBagEmpty",
+                "BloodBagIV",
+                "BloodSyringe",
+                "BloodTestKit",
+                "CharcoalTablets",
+                "DisinfectantAlcohol",
+                "DisinfectantSpray",
+                "Epinephrine",
+                "Morphine",
+                "Epinephrine",
+                "Morphine",
+                "PainkillerTablets",
+                "PurificationTablets",
+                "SalineBag",
+                "SalineBagIV",
+                "SurgicalMask",
+                "SurgicalMask",
+                "TetracyclineAntibiotics",
+                "VitaminBottle",
+                "WaterBottle"
+            ]
+        },
+        {
+            "Title": "Military East",
+            "Container": "RANDOM",
+            "Quantity": 10,
+            "AddFlare": 0.0,
+            "SpawnMin": 1.5,
+            "SpawnMax": 3.5,
+            "SpawnOffset": 0.0010000000474974514,
+            "Lifespan": 60,
+            "Items": [
+                "AKM",
+                "AK_Suppressor",
+                "SniperOptic",
+                "Kar98real",
+                "M1A",
+                "M16",
+                "Canteen",
+                "MVS_Comtacs_Black",
+                "MVS_Comtacs_Tan",
+                "MVS_Comtacs_OD",
+                "MP7",
+                "SCAR",
+                "Rev_AR15",
+                "Rev_ACR_Black",
+                "Rev_Mag_RPK16_96rnd_556",
+                "Rev_Mag_RPK16_96rnd",
+                "Rev_Mag_RPK16_75rnd_762",
+                "MetalWire",
+                "TacticalGloves_Beige",
+                "TacticalGloves_Black",
+                "TacticalGloves_Green",
+                "TacticalGoggles",
+                "Rev_AKU12",
+                "Rev_AKU19",
+                "UniversalLight",
+                "WeaponCleaningKit",
+                "NailBox",
+                "MetalWire",
+                "Chopper_Hinge",
+                "Chopper_Bracket",
+                "CodeLock",
+                "NailBox",
+                "BarbedWire"
+            ]
+        },
+        {
+            "Title": "Military West",
+            "Container": "RANDOM",
+            "Quantity": 20,
+            "AddFlare": 0.0,
+            "SpawnMin": 1.5,
+            "SpawnMax": 3.5,
+            "SpawnOffset": 0.0010000000474974514,
+            "Lifespan": 60,
+            "Items": [
+                "AmmoBox_45ACP_25Rnd",
+                "AmmoBox_556x45_20Rnd",
+                "AssaultBag_Black",
+                "AssaultBag_Green",
+                "AssaultBag_Ttsko",
+                "MVS_Rucksack_Black",
+                "MVS_Rucksack_OD",
+                "MVS_Rucksack_ERDL",
+                "Canteen",
+                "CombatKnife",
+                "FNX45",
+                "M4A1",
+                "MVS_Rucksack_Tan",
+                "MVS_Balaclava_Wraith_Comtacs",
+                "MVS_Balaclava_Wraith",
+                "Rev_Ammo_300BO",
+                "Rev_Ammo_300BO",
+                "Mag_FNX45_15Rnd",
+                "CarTent",
+                "Mag_STANAGCoupled_30Rnd",
+                "MilitaryBoots_Black",
+                "MilitaryBoots_Bluerock",
+                "MilitaryBoots_Brown",
+                "PistolSuppressor",
+                "NailBox",
+                "MetalWire",
+                "CodeLock",
+                "NailBox",
+                "MetalWire",
+                "NailBox",
+                "BarbedWire",
+                "TacticalGloves_Black",
+                "NVGHeadstrap",
+                "NVGoggles",
+                "ArmorRack_Kit",
+                "Rev_HoneyBadger300BO_GreenCamo",
+                "UniversalLight",
+                "Msp_BeanBasher",
+                "Msp_BlunderBat",
+                "Msp_BassAxe",
+                "Msp_PipeAxe",
+                "Chopper_Hinge",
+                "Chopper_Bracket",
+                "NVGHeadstrap",
+                "NVGoggles",
+                "WeaponCleaningKit"
+            ]
+        }
+    ],
+    "VPP_Map": {
+        "ExportMap": 0,
+        "TitleMode": 0,
+        "MapColor": [
+            0,
+            200,
+            200
+        ],
+        "MapIcon": "waypointeditor_CA.paa",
+        "IsActive": 0,
+        "Is3DActive": 0
+    }
+}

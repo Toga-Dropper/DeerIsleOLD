@@ -1,0 +1,18 @@
+{
+    "m_Enable": 1,
+    "m_Epinephrine": {
+        "m_Limit": 100.0,
+        "m_Regen": 100.0,
+        "m_Time": 300.0
+    },
+    "m_Morphine": {
+        "m_Limit": 100.0,
+        "m_Regen": 100.0,
+        "m_Time": 300.0
+    },
+    "m_Saline": {
+        "m_Limit": 0.0,
+        "m_Regen": 0.0,
+        "m_Time": 0.0
+    }
+}

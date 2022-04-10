@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+    <!-- <message> -->
+        <!-- <delay>1</delay> -->
+        <!-- <repeat>5</repeat> -->
+        <!-- <text>Daytime zombies are slow, they move faster at night.  Of course, they also hit hard! </text> -->
+    <!-- </message> -->
+    <!-- <message> -->
+        <!-- <delay>3</delay> -->
+        <!-- <repeat>10</repeat> -->
+        <!-- <text>Epinephrine and Morphine give health boosts for those close zombie hug sessions, or creature fondling.</text> -->
+    <!-- </message>	 -->
+    <!-- <message> -->
+        <!-- <delay>5</delay> -->
+        <!-- <repeat>15</repeat> -->
+        <!-- <text>~Welcome to the CDZ DeerIsle. ServerInfo has Discord Link, click on box!!!</text> -->
+    <!-- </message>	 -->
+    <!-- <message> -->
+        <!-- <delay>7</delay> -->
+        <!-- <repeat>20</repeat> -->
+        <!-- <text>DISCORD___BE SURE TO CHECK THE GREEN BOX IN DISCORD FOR RULE ACCEPTANCE AND DECLARE DAYZ PC IN ROLL CALL</text> -->
+    <!-- </message> -->
+	    <!-- <message> -->
+        <!-- <delay>9</delay> -->
+        <!-- <repeat>25</repeat> -->
+        <!-- <text>Something not working, bugging out, PLEASE USE DISCORD BUG REPORTS. PROBLEMS NEED DECLARED.</text> -->
+    <!-- </message> -->
+	<!-- <message> -->
+        <!-- <delay>11</delay> -->
+        <!-- <repeat>30</repeat> -->
+        <!-- <text>Mystery Boxes are in  5 locations where you spawn at.LOOK</text> -->
+    <!-- </message> -->
+	<!-- <message> -->
+        <!-- <delay>13</delay> -->
+        <!-- <repeat>35</repeat> -->
+        <!-- <text>Firestations have the keygrinders, chance for lootboxes and more these days.</text> -->
+    <!-- </message>	 -->
+	<!-- <message> -->
+        <!-- <delay>15</delay> -->
+        <!-- <repeat>40</repeat> -->
+        <!-- <text>If your vehicle or heli is stuck or flipped, you MUST try the wrench, point wrench at tire, get unstuck.</text> -->
+    <!-- </message>	 -->
+	<!-- <message> -->
+        <!-- <delay>21</delay> -->
+        <!-- <repeat>45</repeat> -->
+        <!-- <text>Firestations have the keygrinders</text> -->
+    <!-- </message>	 -->
+	<!-- <message> -->
+        <!-- <delay>23</delay> -->
+        <!-- <repeat>50</repeat> -->
+        <!-- <text>New players start out at 50k in your bank account, make it to trader......IF you can.</text> -->
+    <!-- </message>	 -->
+	<!-- <message> -->
+        <!-- <delay>27</delay> -->
+        <!-- <repeat>55</repeat> -->
+        <!-- <text>Discord link....discord.gg/czWssFfJdZ  or click box in server information</text> -->
+    <!-- </message>	 -->
+	<!-- <message> -->
+        <!-- <delay>29</delay> -->
+        <!-- <repeat>59</repeat> -->
+        <!-- <text>FROSTBITE is a factor, get all clothing in place on your body</text> -->
+    <!-- </message>	 -->
+	<!-- <message> -->
+        <!-- <delay>31</delay> -->
+        <!-- <repeat>60</repeat> -->
+        <!-- <text>discord.gg/FVJHjWtwgq</text> -->
+    <!-- </message>	 -->
+</messages>
+
+

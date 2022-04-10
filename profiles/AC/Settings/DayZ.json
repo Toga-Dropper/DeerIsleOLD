@@ -1,0 +1,9 @@
+{
+    "m_DisableCarDamage": 0,
+    "m_DisableCrewDamage": 0,
+    "m_DisableCollision": 0,
+    "m_DisableDofEffect": 0,
+    "m_DisableDropshot": 0,
+    "m_DisablePlayerRoll": 0,
+    "m_PauseOnPlayerDeath": 0
+}

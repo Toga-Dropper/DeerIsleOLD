@@ -1,0 +1,17 @@
+{
+    "m_Enable": 0,
+    "m_Primary": [],
+    "m_Secondary": [
+        {
+            "m_Item": "FNX45",
+            "m_Attachments": [
+                [
+                    "PistolSuppressor"
+                ]
+            ],
+            "m_Mag": "Mag_FNX45_15Rnd",
+            "m_Mags": 2
+        }
+    ],
+    "m_Battery": []
+}

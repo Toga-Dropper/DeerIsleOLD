@@ -1,0 +1,64 @@
+{
+    "m_Enable": 1,
+    "m_Health": 99,
+    "m_Groups": [
+        {
+            "m_Steam": [],
+            "m_Description": "",
+            "m_Equip": {
+                "m_Vest": [],
+                "m_Shirt": [],
+                "m_Belt": [],
+                "m_Pants": [],
+                "m_Bag": [],
+                "m_Hat": [],
+                "m_Mask": [],
+                "m_Glasses": [],
+                "m_Glove": [],
+                "m_Shoes": [],
+                "m_Armband": [],
+                "m_Presets": [],
+                "m_Random": []
+            }
+        }
+    ],
+    "m_Everyone": {
+        "m_Vest": [],
+        "m_Shirt": [
+            "CDZ_Tshirt_ZLM"
+        ],
+        "m_Belt": [],
+        "m_Pants": [
+            "Medicalscrubs_pants_start"
+        ],
+        "m_Bag": [],
+        "m_Hat": [],
+        "m_Mask": [
+            "Start_Mask"
+        ],
+        "m_Glasses": [
+            "Headtorch_Grey"
+        ],
+        "m_Glove": [],
+        "m_Shoes": [
+            "StartShoes_White"
+        ],
+        "m_Armband": [],
+        "m_Presets": [],
+        "m_Random": []
+    },
+    "m_Items": [
+        {
+            "m_Item": "Battery9v",
+            "m_QuickBar": 0,
+            "m_Quantity": 1,
+            "m_Attachments": []
+        },
+        {
+            "m_Item": "BandageDressing",
+            "m_QuickBar": 3,
+            "m_Quantity": 3,
+            "m_Attachments": []
+        }
+    ]
+}

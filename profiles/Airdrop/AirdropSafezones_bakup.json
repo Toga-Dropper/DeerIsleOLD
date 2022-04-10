@@ -1,0 +1,11 @@
+{
+    "SafeZones": [
+        {
+            "Title": "CDZ_Trader",
+            "Message": "Airdrops cannot be dispatched to your current location ... Airdrop cancelled!",
+            "X": 3217,
+            "Z": 1734,
+            "Radius": 300
+        }
+    ]
+}

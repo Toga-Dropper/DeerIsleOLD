@@ -1,0 +1,43 @@
+{
+    "m_Enable": 1,
+    "m_Color": {
+        "m_A": 255,
+        "m_R": 232,
+        "m_G": 255,
+        "m_B": 255
+    },
+    "m_Direct": 1,
+    "m_Global": 1,
+    "m_Lines": 12,
+    "m_Timeout": 30,
+    "m_Log": 1,
+    "m_Admin": {
+        "m_Color": {
+            "m_A": 255,
+            "m_R": 255,
+            "m_G": 0,
+            "m_B": 0
+        },
+        "m_Lenght": 120
+    },
+    "m_Game": {
+        "m_Color": {
+            "m_A": 255,
+            "m_R": 77,
+            "m_G": 250,
+            "m_B": 50
+        },
+        "m_Lenght": 120
+    },
+    "m_User": {
+        "m_Color": {
+            "m_A": 255,
+            "m_R": 0,
+            "m_G": 0,
+            "m_B": 255
+        },
+        "m_Lenght": 75
+    },
+    "m_Filter": [],
+    "m_Webhook": ""
+}
